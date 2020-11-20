@@ -1,4 +1,1 @@
 # sc_project
-
-
-Hello 
