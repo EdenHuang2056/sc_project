@@ -5,7 +5,7 @@
      
 # Project Source Codes:
 
-* 123
+* [Boggle Game Solver](https://github.com/EdenHuang2056/sc_project/blob/main/stancode_project/boggle_game_solver/boggle.py)
    * 456
 * 123
    * 456
