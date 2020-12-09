@@ -5,8 +5,7 @@
      
 # Project Source Codes:
 
-* [Boggle Game Solver](https://github.com/EdenHuang2056/sc_project/blob/main/stancode_project/boggle_game_solver/boggle.py)
-   * recursive functions
+
 * [Hangman Game](https://github.com/EdenHuang2056/sc_project/blob/main/stancode_project/hangman/hangman.py)
    * python semantics & syntax
 * [Weather Master](https://github.com/EdenHuang2056/sc_project/blob/main/stancode_project/weather_master/weather_master.py)
@@ -15,10 +14,11 @@
    * image processing
 * [Pedestrian Removing Application](https://github.com/EdenHuang2056/sc_project/blob/main/stancode_project/pedestrian_removing_application/stanCodoshop.py)
    * image processing
-* [Name Popularity Searching System](https://github.com/EdenHuang2056/sc_project/blob/main/stancode_project/name_popularity_searching_system/babygraphics.py)
-   * data structure
 * [Breakout Game](https://github.com/EdenHuang2056/sc_project/blob/main/stancode_project/break_out_game/breakout.py)
    * animation & game designing
-
+* [Name Popularity Searching System](https://github.com/EdenHuang2056/sc_project/blob/main/stancode_project/name_popularity_searching_system/babygraphics.py)
+   * data structure
+* [Boggle Game Solver](https://github.com/EdenHuang2056/sc_project/blob/main/stancode_project/boggle_game_solver/boggle.py)
+   * recursive functions
 
 
